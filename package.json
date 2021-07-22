@@ -1,0 +1,16 @@
+{
+  "name": "random-messg",
+  "version": "1.0.0",
+  "description": "Random de mensajes",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "None"
+  },
+  "author": "Brayan E. Velazquez M. <brayane96@outlook.es>",
+  "license": "MIT",
+  "bin" : {
+    "random-mssg" : "./bin/global.js"
+  },
+  "preferGlobal": true
+}
