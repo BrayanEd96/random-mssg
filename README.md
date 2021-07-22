@@ -1,6 +1,6 @@
 # npm-random-messg
 
-# Random -messg
+# Random - messg
 
 Whenever I start a new proyect, I don't know what to write for the first commit
 
