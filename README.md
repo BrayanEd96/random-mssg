@@ -7,7 +7,7 @@ Whenever I start a new proyect, I don't know what to write for the first commit
 ## Install
 
 ```npm
-npm install -g random-mssg
+npm install -g random-messg
 ```
 # Usage 
 
